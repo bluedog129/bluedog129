@@ -3,7 +3,8 @@
 ### I enjoy improve my programming skills
 - I'm studing programming at 42_seoul
 - now I am doing 42's main assignments,
-- and study data_structure solving algorithm problems.
+- and studying data_structure, 
+- solving algorithm problems.
 
 ### Here is my programming note
 - [42_main course]
