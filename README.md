@@ -11,6 +11,6 @@
   - [repository](https://github.com/bluedog129/ft_main)
   - [summary notion](https://witty-crime-33b.notion.site/42-ec1426dec942409b8d33a15413eea628)
 - [data_structure and algorithm]
-  - [data_structure_study](https://github.com/42cadet-data-structure/Data_structure)
-  - [algorithm_study](https://github.com/bluedog129/algorithm_study)
+  - [data_structure_study_repo](https://github.com/42cadet-data-structure/Data_structure)
+  - [algorithm_study_repo](https://github.com/bluedog129/algorithm_study)
   - [algorithm_velog](https://velog.io/@dogit)
