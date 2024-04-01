@@ -10,7 +10,7 @@
 ## Languages & Tools
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="ruby kim's github stats" src="https://github-readme-stats.vercel.app/api?username=bluedog129&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="hyojong's github stats" src="https://github-readme-stats.vercel.app/api?username=bluedog129&show_icons=true&hide_border=true" />
   </a>
   <br />
   <!-- Your languages and tools. Be careful with the alignment. 
