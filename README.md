@@ -5,7 +5,7 @@
 
 ## I enjoy the process of building better services as a frontend developer
 - I'm currently studying in 42 Seoul
-- I'm currently a front-end developer for the 24HANE service.
+- I'm currently a front-end developer for the [24HANE](https://github.com/bluedog129/24hane-frontend) service.
 
 ## Languages & Tools
 <p>
