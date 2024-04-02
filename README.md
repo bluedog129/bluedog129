@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bluedog129@gmail.com)
 
 
-## I enjoy the process of building better services as a frontend developer
+## I'm a frontend developer and enjoy the process of building better services.
 - I'm currently studying in [42 Seoul](https://github.com/bluedog129/ft_main)
 - I'm currently a front-end developer for the [24HANE](https://github.com/bluedog129/24hane-frontend) service.
 
