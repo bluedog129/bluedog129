@@ -4,7 +4,7 @@
 
 
 ## I'm a frontend developer and enjoy the process of building better services.
-- I'm currently studying in [42 Seoul](https://github.com/bluedog129/ft_main)
+- I finished [42 Seoul](https://github.com/bluedog129/ft_main)'s common course.
 - I'm currently a front-end developer for the [24HANE](https://github.com/bluedog129/24hane-frontend) service.
 
 ## Languages & Tools
